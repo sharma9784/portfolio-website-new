@@ -139,7 +139,7 @@ html{
 .profile::before{
   content: "";
   position: absolute;
-  background-image: url("http://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/home-bg-img.jpg");
+  background-image: url("https://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/home-bg-img.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
